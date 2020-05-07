@@ -1,3 +1,3 @@
 fold2 has created
 
-MD stands for markdown
+MD stands for Markdown language dialects
